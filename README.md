@@ -1,1 +1,6 @@
-This is my readme file
+<<<<<<<<< saved version
+For some reason my first text disappeared with merging. Maybe it was not previously saved....
+=========
+Adding more text to readme file...
+ech
+>>>>>>>>> local version
